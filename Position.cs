@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameDevPOE
 {
-    public class Position
+    public class Position 
     {
         //Fields of Position class for X & Y values
         private int x, y;//x and y integer fields
